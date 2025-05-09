@@ -1,2 +1,3 @@
 # TeasBHOP
-This GitHub repository is intended for users to submit Issues and does not store code or provide other functionalities.
+This GitHub repository is intended for users to submit Issues.
+If you want to submit new languages, please directly send a Pull Request.
